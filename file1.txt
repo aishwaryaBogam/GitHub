@@ -1,1 +1,2 @@
-Hey, hi, Sam file 1.
+Hey, hi, i'am file 1.
+The changes are made to this file1.
